@@ -4,13 +4,13 @@ function loadNavbar() {
     <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
     <li class="nav-item">
-    <a class="nav-link" href="../view/index.html">Home</a>
+    <a class="nav-link" href="../views/index.html">Home</a>
     </li>
     <li class="nav-item">
-    <a class="nav-link" href="../view/schedule.html">Schedule</a>
+    <a class="nav-link" href="../views/schedule.html">Schedule</a>
     </li>
     <li class="nav-item">
-    <a class="nav-link" href="../view/hobbies.html">Hobbies</a>
+    <a class="nav-link" href="../views/hobbies.html">Hobbies</a>
     </li>
     </ul>
     </div>
